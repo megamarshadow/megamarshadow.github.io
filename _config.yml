@@ -2,12 +2,12 @@
 title: proselyte Blog
 SEOTitle: 异教的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: duhaoyuan2001@163.com
 description: "Every failure is leading towards success."
 keyword: "proselyte, proselyte Blog, 异教的博客, Proselyte, 异教, iOS, Apple, iPhone"
 url: "http://megamarshadow.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/megamarshadow/megamarshadow.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
@@ -18,11 +18,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# weibo_username:     megamarshadow
+zhihu_username:     megamarshadow
+github_username:    megamarshadow
+
 #twitter_username:   qiubaiying
 
 
